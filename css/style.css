@@ -47,6 +47,7 @@ h3 {
 	margin: 20px auto;
 	border: 1px solid #000;
 	border-radius: 5px;
+	background-color: #fff;
 	text-decoration: none;
 }
 .section-featuring a::after {
@@ -69,6 +70,9 @@ h3 {
 }
 .chapter div:last-of-type {
 	border-bottom: 0px solid rgba(0, 0, 0, 0);
+}
+.chapter dt, .chapter dd {
+	display: inline-block;
 }
 
 
