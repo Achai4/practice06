@@ -58,6 +58,8 @@ header{
 }
 .section-feature div a{
 	padding: 1em 5em;
+	border: 2px solid #000;
+	border-radius: 10px;
 	margin-bottom: 30px;
 	text-decoration: none;
 }
