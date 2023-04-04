@@ -45,6 +45,9 @@ h3 {
 }
 
 /* ----- SECTION FEATURE ----- */
+.section .section-feature img {
+	margin: 1em 0;
+}
 .section-feature a {
 	padding: 1em 20px;
 	margin: 20px auto;
