@@ -177,5 +177,6 @@ footer{
 	}
 	.footer-link p{
 		margin-right: 20%;
+		vertical-align: middle;
 	}
 }
