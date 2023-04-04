@@ -65,6 +65,7 @@ header{
 .section-feature div.label-link a::after{
 	content: url("../img/arrow.png");
 	margin-left: 6px;
+	vertical-align: middle;
 }
 
 /* ----- SECTION CHAPTERS ----- */
