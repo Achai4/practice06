@@ -80,7 +80,7 @@ header{
 .chapters{
 	width: 100%;
 	padding: 10px 20px;
-	background-color: rgba(256, 256, 256, 0.4);
+	background: rgba(256, 256, 256, 0.4);
 }
 .chapters div{
 	padding: 10px 0;
