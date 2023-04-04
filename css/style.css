@@ -78,7 +78,7 @@ h3 {
 /* ----- SECTION #03 ----- */
 .section-writers dt {
 	padding: 10px 0;
-	border: 1px solid #000;
+	border-bottom: 1px solid #000;
 	font-size: 20px;
 }
 
