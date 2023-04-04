@@ -41,6 +41,15 @@ h3 {
 .featuring {
 	width: 100%;
 }
+.featuring a {
+	padding: 1em 20px;
+	margin: 20px auto;
+	text-decoration: none;
+}
+.featuring a::after {
+	content: url("../img/arrow.png");
+	margin-left: 5px;
+}
 
 /* ----- SECTION #02 ----- */
 .section-chapters {
