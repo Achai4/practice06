@@ -167,9 +167,9 @@ footer{
 	}
 	.footer-img-area li{
 		display: inline-block;
+		margin-left: 16px;
 	}
 	.footer-link{
 		width: 100%;
 	}
-	
 }
