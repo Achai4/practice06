@@ -61,3 +61,10 @@ header{
 	margin-bottom: 30px;
 	text-decoration: none;
 }
+
+/* ----- SECTION CHAPTERS ----- */
+.section-chapters{
+	width: 100%;
+	background-image: url("../img/contents-list_bg.jpg");
+	background-size: cover;
+}
