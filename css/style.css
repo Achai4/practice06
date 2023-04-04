@@ -78,7 +78,7 @@ header{
 .chapters{
 	width: 100%;
 	padding: 20px;
-	margin-bottom: 30px;
+	background-color: rgba(0, 0, 0, 0.5);
 }
 .chapters dt, .chapters dd{
 	display: inline-block;
