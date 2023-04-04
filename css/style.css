@@ -79,7 +79,7 @@ header{
 }
 .chapters{
 	width: 100%;
-	padding: 20px;
+	padding: 10px 20px;
 	background-color: rgba(0, 0, 0, 0.5);
 }
 .chapters div{
