@@ -101,3 +101,12 @@ header{
 .section-writers{
 	width: 100%;
 }
+.section-writers dt{
+	width: 100%;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #000;
+}
+.section-writers dd{
+	width: 100%;
+	padding: 10px 0 30px;
+}
