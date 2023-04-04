@@ -21,7 +21,10 @@ header img {
 	width: 100%;
 }
 
-/* ----- SECTION共通設定 ----- */
+/* ----- SECTION 共通 ----- */
+h2 {
+	height: 40px;
+}
 dl {
 	width: 80%;
 	margin: 0 auto;
