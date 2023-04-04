@@ -76,7 +76,7 @@ header{
 .chapters{
 	width: 100%;
 	padding: 10px 20px;
-	background: rgba(256, 256, 256, 0.5);
+	background: rgba(256, 256, 256, 0.7);
 }
 .chapters div{
 	padding: 10px 0 11px;
@@ -125,7 +125,7 @@ footer{
 .footer-img-area .section-inner{
 	padding: 20px;
 	background-color: rgba(256, 256, 256, 0.5);
-	box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 0 20px 2px rgba(0, 0, 0, 0.7);
 }
 .footer-img-area p{
 	font-size: 20px;
