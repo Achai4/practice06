@@ -83,8 +83,8 @@ header{
 	background: rgba(256, 256, 256, 0.4);
 }
 .chapters div{
-	padding: 10px 0 12px;
-	border-bottom: 2px solid #000;
+	padding: 10px 0 11px;
+	border-bottom: px solid #000;
 }
 .chapters dt, .chapters dd{
 	display: inline-block;
