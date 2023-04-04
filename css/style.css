@@ -161,4 +161,7 @@ footer{
 		display: flex;
 		justify-content: space-around;
 	}
+	.section-wrap .section-inner{
+		flex-basis: 40%;
+	}
 }
