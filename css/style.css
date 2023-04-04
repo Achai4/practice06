@@ -84,6 +84,7 @@ header{
 }
 .chapters div{
 	padding: 10px 0;
+	border: 2px solid #000;
 }
 .chapters dt, .chapters dd{
 	display: inline-block;
