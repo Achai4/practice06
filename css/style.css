@@ -113,5 +113,11 @@ header{
 
 /* ----- FOOTER ----- */
 footer{
+	width: 100%;
 	height: 60vh;
+}
+.footer-img-area{
+	width: 100%;
+	background-image: url("../img/footer_bg.jpg");
+	background-size: cover;
 }
