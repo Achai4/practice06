@@ -59,7 +59,7 @@ h3 {
 /* ----- SECTION CHAPTERS ----- */
 .section-chapters{
 	background-image: url("../img/contents-list_bg.jpg");
-	background: cover;
+	background-size: cover;
 }
 .chapters {
 	padding: 20px;
