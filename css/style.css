@@ -28,4 +28,13 @@ h2 img{
 	margin: 0 auto;
 }
 
+.section-inner{
+	width: 80%;
+	margin: 0 auto;
+}
+
 /* ----- HEADER ----- */
+header{
+	width: 100%;
+}
+
