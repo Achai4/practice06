@@ -51,12 +51,12 @@ header{
 .section-feature p{
 	margin-bottom: 30px;
 }
-.section-feature div{
+.section-feature div.lebel-link{
 	width: 100%;
 	padding: 30px 0;
 	text-align: center;
 }
-.section-feature div a{
+.section-feature div.lebal-link a{
 	padding: 1em 5em;
 	border: 2px solid #000;
 	border-radius: 10px;
