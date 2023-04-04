@@ -77,17 +77,14 @@ h3 {
 }
 
 /* ----- SECTION WRITERS ----- */
-.section-writers{
-	padding: 10px 0;
-}
 .section-writers dt {
-	padding-bottom: 10px;
+	padding: 10px 0;
 	border-bottom: 1px solid #000;
 	font-size: 20px;
 	font-weight: bold;
 }
 .section-writers dd {
-	padding-top: 0.5em;
+	padding-top: 10px 0;
 }
 
 /* ----- FOOTER ----- */
