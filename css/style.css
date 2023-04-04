@@ -86,6 +86,10 @@ header{
 	padding: 10px 0 11px;
 	border-bottom: 1px solid #000;
 }
+.chapters div:last-of-type{
+	padding-bottom: 10px;
+	border-bottom: 0px;
+}
 .chapters dt, .chapters dd{
 	display: inline-block;
 }
