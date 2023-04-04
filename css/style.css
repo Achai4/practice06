@@ -78,13 +78,13 @@ h3 {
 
 /* ----- SECTION WRITERS ----- */
 .section-writers dt {
-	padding: 10px 0;
+	padding: 10px 0 20px;
 	border-bottom: 1px solid #000;
 	font-size: 20px;
 	font-weight: bold;
 }
 .section-writers dd {
-	padding-top: 10px 0;
+	padding-top: 10px 0 20px;
 }
 
 /* ----- FOOTER ----- */
