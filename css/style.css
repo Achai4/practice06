@@ -34,7 +34,7 @@ h2 img {
 h3 {
 	text-align: ceter;
 	font-size: 20px;
-	font-weight: 400;
+	font-weight: bold;
 }
 .section-inner {
 	width: 80%;
@@ -80,6 +80,7 @@ h3 {
 	padding: 10px 0;
 	border-bottom: 1px solid #000;
 	font-size: 20px;
+	font-weight: bold;
 }
 
 
