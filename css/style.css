@@ -24,6 +24,7 @@ header img {
 /* ----- SECTION 共通 ----- */
 h2 img {
 	height: 60px;
+	margin: 30px auto;
 }
 .section-inner {
 	width: 80%;
@@ -38,4 +39,14 @@ h3 {
 	text-align: ceter;
 	font-size: 20px;
 	font-weight: 400;
+}
+
+
+
+
+
+
+/* ----- FOOTER ----- */
+footer {
+	background-color: black;
 }
