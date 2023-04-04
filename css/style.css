@@ -134,3 +134,16 @@ footer{
 .footer-img-area ul{
 	text-decoration: none;
 }
+.footer-link{
+	background-color: #000;
+}
+.footer-link ul{
+	text-align: center;
+}
+.footer-link li{
+	display: inline-block;
+}
+.footer-link img{
+	width: 30px;
+	padding: 0.5em;
+}
