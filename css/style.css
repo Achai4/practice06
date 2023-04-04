@@ -119,14 +119,14 @@ footer{
 	height: 60vh;
 	background-image: url("../img/footer_bg.jpg");
 	background-size: cover;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 .footer-img-area .section-inner{
 	width: 100%;
 	padding: 20px;
 	background-color: rgba(256, 256, 256, 0.5);
-	display: flex;
-	justify-content: center;
-	align-items: center;
 }
 .footer-img-area p{
 	font-size: 22px;
