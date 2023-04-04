@@ -88,3 +88,6 @@ header{
 .chapters dt, .chapters dd{
 	display: inline-block;
 }
+.chapters dt{
+	margin-right: 1.3em;
+}
