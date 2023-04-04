@@ -133,8 +133,8 @@ footer{
 	font-weight: 500;
 	padding-bottom: 20px;
 }
-.footer-img-area ul li{
-	text-decoration: none;
+.footer-img-area ul{
+	list-style: none;
 }
 .footer-link{
 	background-color: #000;
