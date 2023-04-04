@@ -93,6 +93,7 @@ h3 {
 /* ----- FOOTER ----- */
 footer {
 	background-color: black;
+	text-align: center;
 }
 footer div:nth-of-type(2) ul {
 	margin: 30px auto;
