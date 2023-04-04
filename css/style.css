@@ -13,6 +13,9 @@
 body{
 	width: 100vw;
 }
+p{
+	font-size: 14px;
+}
 img{
 	display: block;
 }
