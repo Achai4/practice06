@@ -166,6 +166,7 @@ footer{
 		flex-basis: 44%;
 	}
 	.footer-link{
+		width: 100%;
 		text-align: initial;
 	}
 	.footer-link ul, .footer-link p{
