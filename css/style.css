@@ -165,18 +165,11 @@ footer{
 	.section-wrap .section-inner{
 		flex-basis: 44%;
 	}
-	.footer-link{
-		width: 100%;
-		text-align: initial;
-	}
-	.footer-link ul, .footer-link p{
+	.footer-img-area li{
 		display: inline-block;
 	}
-	.footer-link ul{
-		margin-left: 20%;
+	.footer-link{
+		width: 100%;
 	}
-	.footer-link p{
-		margin-right: 20%;
-		vertical-align: middle;
-	}
+	
 }
