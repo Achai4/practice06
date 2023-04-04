@@ -29,7 +29,7 @@ h2 img{
 }
 .section-inner{
 	width: 85%;
-	max-width: 400px;
+	max-width: 600px;
 	margin: 0 auto;
 }
 
@@ -163,7 +163,7 @@ footer{
 		justify-content: space-around;
 	}
 	.section-wrap .section-inner{
-		flex-basis: 40%;
+		flex-basis: 44%;
 	}
 	.footer-link{
 		text-align: initial;
