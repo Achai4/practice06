@@ -122,10 +122,15 @@ footer{
 	background-size: cover;
 }
 .footer-img-area div{
+	width: 100%;
 	padding: 20px;
+	background-color: rgba(256, 256, 256, 0.4);
 }
 .footer-img-area p{
 	font-size: 22px;
 	font-weight: 500;
 	margin-bottom: 20px;
+}
+.section-writers ul{
+	text-decoration: none;
 }
