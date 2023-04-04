@@ -42,8 +42,8 @@ h3 {
 	margin: 0 auto;
 }
 
-/* ----- SECTION #01 ----- */
-.section-featuring a {
+/* ----- SECTION FEATURE ----- */
+.section-feature a {
 	padding: 1em 20px;
 	margin: 20px auto;
 	border: 1px solid #000;
@@ -51,12 +51,12 @@ h3 {
 	background: #fff;
 	text-decoration: none;
 }
-.section-featuring a::after {
+.section-feature a::after {
 	content: url("../img/arrow.png");
 	margin-left: 5px;
 }
 
-/* ----- SECTION #02 ----- */
+/* ----- SECTION CHAPTERS ----- */
 .section-chapters{
 	background-image: url("../img/contents-list_bg.jpg");
 	background: cover;
@@ -76,7 +76,7 @@ h3 {
 	display: inline-block;
 }
 
-/* ----- SECTION #03 ----- */
+/* ----- SECTION WRITERS ----- */
 .section-writers dt {
 	padding: 10px 0;
 	border-bottom: 1px solid #000;
