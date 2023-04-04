@@ -42,3 +42,10 @@ header{
 
 
 /* ----- SECTION FEATURE ----- */
+h3{
+	width: 100%;
+	margin: 30px 0;
+	text-align: center;
+	font-size: 24px;
+	font-weight: bold;
+}
