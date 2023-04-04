@@ -73,3 +73,6 @@ header{
 	padding: 30px;
 	margin-bottom: 30px;
 }
+.chapters dt, .chapters dd{
+	display: inline-block;
+}
