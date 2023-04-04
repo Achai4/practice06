@@ -157,5 +157,8 @@ footer{
 
 /* ----- メディアクエリ ----- */
 @media screen and (min-width: 768px){
-	
+	.section-wrap{
+		display: flex;
+		justify-content: space-around;
+	}
 }
