@@ -137,7 +137,7 @@ footer{
 	list-style: none;
 }
 .footer-link{
-	padding: 23px 0;;
+	padding: 23px 0;
 	background-color: #000;
 	text-align: center;
 }
@@ -165,7 +165,16 @@ footer{
 	.section-wrap .section-inner{
 		flex-basis: 40%;
 	}
+	.footer-link{
+		text-align: initial;
+	}
 	.footer-link ul, .footer-link p{
 		display: inline-block;
+	}
+	.footer-link ul{
+		margin-left: 20%;
+	}
+	.footer-link p{
+		margin-right: 20%;
 	}
 }
